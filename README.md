@@ -13,6 +13,10 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+
+![]https://imgur.com/a/HawCNuk
+
 ## App Brainstorming (Step 4)
 
 **Strava** Really easy navigation, compilation of data
@@ -20,7 +24,8 @@ The following **required** functionality is completed:
 **Transit** Map navigation routes, see when bus comes around you
 
 ### idea 
-an apartment hunting app that makes it easier for anyone to find spaces to rent.
+
+An apartment hunting app that makes it easier for anyone to find spaces to rent. I would like to add a way for both landlords to offer spaces and tenants to browse these spaces based on filters like price, kitchen, privacy, and more. The communication should be all done on the app and not email or phone.
 
 ## Notes
 
